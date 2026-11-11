@@ -23,10 +23,10 @@ int main() {
 
     return 0;
 }
-//–o phuc tap
+//√êo phuc tap
 Time: O(N)
 Nhap N phan t?: O(N)
 Tinh tong: O(N)
-Tong  l‡ O(N).
+Tong  l√† O(N).
 Memory: O(N)
 Can mang a chua N phan tu // 
