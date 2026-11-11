@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 void chenPhanTu(int a[], int &n, int y, int m) {
-    // m là v? trí b?t d?u t? 1
+    // m lÃ  v? trÃ­ b?t d?u t? 1
     if (m < 1 || m > n + 1) {
         cout << "Vi tri m khong hop le" << endl;
         return;
