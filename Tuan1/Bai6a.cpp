@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 void xoaPhanTu(int a[], int &n, int k) {
-    // k l‡ vi tri bat dau
+    // k l√† vi tri bat dau
     if (k < 1 || k > n) {
         cout << "Vi tri k khong hop le" << endl;
         return;
@@ -40,7 +40,7 @@ int main() {
     return 0;
 }
 //Do phuc tap
-//Best case: O(1) ó xoa phan tu cuoi.
+//Best case: O(1) ‚Äî xoa phan tu cuoi.
 //Average case: O(N)
-//Worst case: O(N) ó xoa phan tu dau.
+//Worst case: O(N) ‚Äî xoa phan tu dau.
 //Memory: O(1)//
