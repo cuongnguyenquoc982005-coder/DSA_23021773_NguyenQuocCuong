@@ -79,11 +79,11 @@ int main() {
 }
 //Do phuc tap 
 //a) Tinh tong 
-//Time:O(N × M)
+//Time:O(N Ã— M)
 //Memory: O(1) 
 //b) xoa ding thu i
 //Co N - i dong phai dich, moi dong m phan tu 
 //Best case:O(M) xoa dong cuoi 
-//Average case:O(N × M)
-//Worst case:O(N × M) xoa dong dau 
+//Average case:O(N Ã— M)
+//Worst case:O(N Ã— M) xoa dong dau 
 //Memory: O(1)
